@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Order-a-meal/static/css/main.c9502065.css",
+    "main.js": "/Order-a-meal/static/js/main.2bc21996.js",
+    "static/media/meals.jpg": "/Order-a-meal/static/media/meals.2971f633fc1382581cbf.jpg",
+    "index.html": "/Order-a-meal/index.html",
+    "main.c9502065.css.map": "/Order-a-meal/static/css/main.c9502065.css.map",
+    "main.2bc21996.js.map": "/Order-a-meal/static/js/main.2bc21996.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c9502065.css",
+    "static/js/main.2bc21996.js"
+  ]
+}
