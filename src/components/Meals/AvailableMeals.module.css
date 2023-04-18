@@ -1,0 +1,90 @@
+.meals {
+    max-width: 60rem;
+    width: 90%;
+    margin: 2rem auto;
+    animation: meals-appear 1s ease-out forwards;
+}
+
+.meals ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+@keyframes meals-appear {
+    from {
+        opacity: 0;
+        transform: translateY(3rem);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* .meals {
+    max-width: 60rem;
+    width: 90%;
+    margin: 2rem auto;
+    animation: meals-appear 1s ease-out forwards;
+}
+.meals ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+.but {
+    background-color: rgb(183, 59, 28);
+    font-weight: bold;
+    border-color: rgb(183, 59, 28);
+    color: white;
+    left: 10px;
+    position: absolute;
+    left: 85%;
+    top: 10p;
+    bottom: auto;
+    margin-top: -10px;
+    width: 83px;
+    height: 28px;
+    border-radius: 10px;
+}
+.input_div {
+    display: flex;
+    align-items: flex-end;
+    position: absolute;
+    left: 81%;
+    bottom: auto;
+    margin-top: -67px;
+}
+.inp {
+    border: 1px solid #dfdede;
+    border-radius: 3px;
+    padding-left: 3px;
+    width: 40px;
+    margin-left: 13px;
+}
+.label {
+    font-weight: bold;
+}
+.name {
+    font-weight: bold;
+}
+.description {
+    font-style: italic;
+}
+.price {
+    font-weight: bold;
+    color: rgb(219, 155, 16);
+}
+@keyframes meals-appear {
+    from {
+        opacity: 0;
+        transform: translateY(3rem);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+} */
